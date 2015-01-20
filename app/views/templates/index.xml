@@ -1,0 +1,7 @@
+<Alloy>
+    <Window class="container"
+            id="win"
+            title="">
+        
+    </Window>
+</Alloy>

@@ -1,0 +1,11 @@
+"Label": {
+    color: Alloy.Globals.Colors.Black,
+}
+
+"TextField": {
+    color: Alloy.Globals.Colors.Black,
+}
+
+"View": {
+    backgroundColor: Alloy.Globals.Colors.Transparent,
+}
